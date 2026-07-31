@@ -1,0 +1,43 @@
+# Misfits Market
+
+> Grocery delivery service building a better food system. Skip the store & get fresh vegetables, organic produce, dairy, meat & more delivered with Misfits Market.
+
+## Docs
+- [Help Center](https://help.misfitsmarket.com/?_gl=1*rhpwu4*_gcl_au*MTQ2MTE4Nzk0OS4xNzA2NzE4NDA0): A support resource for customers needing assistance with their orders or services.
+- [FAQs](https://www.misfitsmarket.com/faq): Frequently asked questions regarding Misfits Market's services, policies, and delivery options.
+- [How It Works](https://www.misfitsmarket.com/how-it-works): This page outlines the process of ordering groceries through Misfits Market, detailing how customers can select their items and receive deliveries.
+
+## Product
+- [Home](https://www.misfitsmarket.com/): Online grocery delivery with rescued produce and sustainable groceries across the U.S.
+- [Our Food](https://www.misfitsmarket.com/produce-and-grocery-products): This section provides information about the types of food available through Misfits Market, emphasizing the focus on fresh, organic produce and sustainable sourcing.
+- [Wine Delivery](https://www.misfitsmarket.com/wine): Information about the wine delivery service offered by Misfits Market, including selection and delivery options.
+- [Locations](https://www.misfitsmarket.com/locations): This page lists the areas served by Misfits Market, helping customers find out if they can receive deliveries in their location.
+- [Refer Friends](https://www.misfitsmarket.com/referral-program): A program that allows customers to refer friends to Misfits Market, often with incentives for both the referrer and the new customer.
+
+## Legal
+- [Terms of Service](https://www.misfitsmarket.com/terms-of-service): The legal terms governing the use of Misfits Market's services.
+- [Privacy Policy](https://www.misfitsmarket.com/privacy): An overview of how Misfits Market collects, uses, and protects customer data.
+- [Website Accessibility](https://www.misfitsmarket.com/accessibility): Details on the accessibility features of the Misfits Market website and services.
+- [Privacy Center](https://privacy.misfitsmarket.com/): Information regarding customer rights related to personal data under applicable laws.
+- [California Privacy Notice](https://www.misfitsmarket.com/privacy#10-additional-privacy-information-for-california-residents): Specific privacy information for California residents, in compliance with state regulations.
+
+## Learning
+- [Our Blog](https://blog.misfitsmarket.com/): A resource for recipes, tips, and articles related to food and sustainability, aimed at engaging customers and providing useful information.
+- [Misfits Market Blog - Recipes, Resources, & Tips](https://blog.misfitsmarket.com/): A blog featuring various recipes and resources aimed at helping customers make the most of their grocery deliveries.
+- [Recipes Archives](https://blog.misfitsmarket.com/recipes/): A collection of recipes available for customers to explore and utilize with their grocery deliveries.
+- [Let's Talk About Our Impact](https://blog.misfitsmarket.com/impact/): A discussion on the positive environmental and social impacts of Misfits Market's operations.
+- [Understanding Meat Labels](https://blog.misfitsmarket.com/understanding-meat-grass-fed-organic-prime/): Decode grass-fed, organic, and grading terms.
+
+## Company
+- [About Us](https://www.misfitsmarket.com/about-us): Learn about the mission and values of Misfits Market, including their commitment to reducing food waste and promoting a better food system.
+- [Our Sourcing](https://www.misfitsmarket.com/sourcing): Details on how Misfits Market sources its products, focusing on sustainability and quality.
+- [Creating Food Access](https://www.misfitsmarket.com/food-access): This page discusses Misfits Market's initiatives to improve food access for underserved communities.
+- [Careers](https://www.misfitsmarket.com/careers): Explore job opportunities at Misfits Market and learn about the company culture and values.
+- [Contact Us](https://www.misfitsmarket.com/contact-us): Information on how to get in touch with Misfits Market for inquiries or support.
+- [Affiliate Program](https://www.misfitsmarket.com/affiliate-program): Information about the affiliate program, allowing individuals to earn commissions by promoting Misfits Market.
+
+## Optional
+- [Get Started](https://www.misfitsmarket.com/join): A guide for new customers on how to begin using Misfits Market's grocery delivery service, including account setup and first orders.
+- [Food waste](https://www.misfitsmarket.com/food-waste): This page discusses the issue of food waste and how Misfits Market aims to combat it through their business model.
+- [ReFED](https://refed.org/food-waste/the-problem/): Information about ReFED, an organization focused on reducing food waste, and how Misfits Market collaborates with them.
+- [Reviews & Press](https://www.misfitsmarket.com/reviews): A collection of customer reviews and media coverage highlighting the impact and reception of Misfits Market's services.
