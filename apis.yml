@@ -82,3 +82,5 @@ x-enrichment:
   status: enriched
   artifacts_added: 2
   pass: local-v1
+x-parent: misfits-market
+x-relationship: product
